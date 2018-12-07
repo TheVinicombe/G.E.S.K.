@@ -1,4 +1,4 @@
-# G.E.S.K.
+# kos - G.E.S.K.
 Good Enough Spacecraft Kontrol
 GESK is a collection of KOS (Kerbal Operating System) codes to control vehicles in the simulator game KSP (Kerbal Space Program).
 
